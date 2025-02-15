@@ -13,3 +13,5 @@ ley myobj = {
 const my function = function(){
     console.log("hello world")
 }
+
+// stack(primitive), heap(non-primitive)
